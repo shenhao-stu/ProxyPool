@@ -1,0 +1,11 @@
+environs
+Flask
+attrs
+retrying
+aiohttp
+requests
+loguru
+pyquery
+supervisor
+redis
+lxml
